@@ -121,8 +121,7 @@ body{
 	
 	
 	#p1{
-		width: 31.3
-		%;
+		width: 31.3%;
 		float: left;
 		display: inline-block;
 		box-sizing: border-box;
@@ -201,14 +200,14 @@ body{
 @media(max-width: 767px){
 
 	#p1{
-		width: 90%;
+		width: 98%;
 		
 	}
 	#p2{
-		width: 90%;
+		width: 98%;
 		
 	}
 	#p3{
-		width: 90%;
+		width: 98%;
 	}
 }
